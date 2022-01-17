@@ -1,5 +1,7 @@
 # Write Me Some Erlang
 
+> This repository is for notes and code while reading [Learn You Some Erlang](https://learnyousomeerlang.com).
+
 ## Getting Help
 
 ```sh
